@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Evgeniy Kluev(He/Him), Frontend React developer, currently looking for job, have lot of practice in web/javascript/react.
 
-#### I do amazing job in:
+### I do amazing job in:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=font-family%3A+-apple-system%2CBlinkMacSystemFont%2C%22Segoe+UI%22%2CHelvetica%2CArial%2Csans-serif%2C%22Apple+Color+Emoji%22%2C%22Segoe+UI+Emoji%22;&size=24&color=3335FF&height=32&lines=react+redux+javascript+gsap)](https://git.io/typing-svg)
 
